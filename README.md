@@ -1,11 +1,11 @@
-About r-disco
-=============
+About r-disco-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-disco-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=disco
 
 Package license: GPL (>= 2.0)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-disco-feedstock/blob/main/LICENSE.txt)
 
 Summary: Concordance and discordance of homologous gene regulation allows comparing reaction to stimuli in different organisms,  for example human patients and animal models of a disease. The package contains functions to calculate discordance and concordance score for homologous gene pairs, identify concordantly or discordantly regulated transcriptional modules and visualize the results. It is intended for analysis of transcriptional data.
 
